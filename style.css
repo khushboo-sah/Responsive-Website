@@ -129,7 +129,7 @@ nav {
   z-index: -1;
 }
 
-.laptop-select {
+.pizza-select {
   width: 15%;
   display: flex;
   justify-content: space-around;
@@ -165,14 +165,14 @@ nav {
   .cta {
     padding: 10px 0px 0px 0px;
   }
-  .laptop-select {
+  .pizza-select {
     bottom: 5%;
     right: 50%;
     width: 50%;
     transform: translate(50%, 5%);
   }
   .cover img {
-    height: 75%;
+    height: 65%;
   }
   .small-circle,
   .medium-circle,
